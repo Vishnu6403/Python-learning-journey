@@ -3,8 +3,8 @@
 
 1.Arithematic operators
    arithematic
-   +
-   -
+   + Addition
+   - Subtraction
    * multiplication
    /  division
    ** power  a**2 a**10
